@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="RandomNumberService.RandomNumberGenerator" CodeBehind="RandomNumberGenerator.svc.cs" %>
